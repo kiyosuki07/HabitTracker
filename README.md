@@ -9,7 +9,7 @@ CRUD console app to track quantity of something
     + If the database or table required does not exist, it is created automatically.
 
 + Console-based user interface for working with the application
-    + ![app](/consoleScreenshot.png)
+    + ![app](/Screenshot.png)
 
 # Challanges
 
